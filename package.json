@@ -1,0 +1,13 @@
+{
+  "name": "interview-ace-app",
+  "version": "1.0.0",
+  "description": "AI-powered interview preparation platform",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
