@@ -13,7 +13,7 @@
     }
   ],
   "env": {
-    "SUPABASE_URL": "@supabase_url",
-    "SUPABASE_ANON_KEY": "@supabase_anon_key"
+    "SUPABASE_URL": "https://ygmyxyblesqkimeesjwr.supabase.co",
+    "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlnbXl4eWJsZXNxa2ltZWVzandyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMwODI4NjAsImV4cCI6MjA2ODY1ODg2MH0.TI4kx-toajXifG-7a4HY9sVk3y2_rNL4yNj6r6VB6RI"
   }
 }
