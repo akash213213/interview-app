@@ -8,8 +8,8 @@
 // with your actual Supabase project URL and public anon key.
 // You can find these in your Supabase project settings under API.
 // ====================================================================
-const SUPABASE_URL = "YOUR_SUPABASE_PROJECT_URL";
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
+const SUPABASE_URL = "https://ygmyxyblesqkimeesjwr.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlnbXl4eWJsZXNxa2ltZWVzandyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMwODI4NjAsImV4cCI6MjA2ODY1ODg2MH0.TI4kx-toajXifG-7a4HY9sVk3y2_rNL4yNj6r6VB6RI";
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 // ====================================================================
